@@ -1,5 +1,7 @@
 👋👋👋
 
+![SULTAN PEYEK's Github Stats](https://github-readme-stats.vercel.app/api?username=sultanpeyek&show_icons=true&theme=nightowl)
+
 Hi, My name is @sultanpeyek.
 
 I'm a UI Developer in real life and this is my alt Github account.
