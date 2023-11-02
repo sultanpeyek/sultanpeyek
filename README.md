@@ -1,12 +1,10 @@
 👋👋👋
 
-![SULTAN PEYEK's Github Stats](https://github-readme-stats.vercel.app/api?username=sultanpeyek&show_icons=true&theme=nightowl)
+Hi, my name is @sultanpeyek.
 
-Hi, My name is @sultanpeyek.
+I'm a Detail-oriented Fullstack Engineer with a strong background in UI Development.
 
-I'm a UI Developer in real life and this is my alt Github account.
-
-I’ve been currently active in contributing to several Solana projects by trying to submit PRs of any opportunity area that I could help (esp. on HTML, CSS, Presentational JavaScript, SEO, and site performance).
+I've been actively contributing to several Solana projects by submitting PRs wherever I find an opportunity to help.
 
 <!---
 sultanpeyek/sultanpeyek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
